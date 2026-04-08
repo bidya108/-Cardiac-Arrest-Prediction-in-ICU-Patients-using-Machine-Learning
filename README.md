@@ -75,7 +75,7 @@ This project builds a machine learning-based system to predict the risk of cardi
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/Sahildas2003/Prediction-Of-Cardiac-Arrest.git
+git clone https://github.com/bidya108/Prediction-Of-Cardiac-Arrest.git
 cd Prediction-Of-Cardiac-Arrest
 pip install -r requirements.txt
 python CardiacApp/app.py
